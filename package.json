@@ -1,7 +1,6 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -27,5 +26,14 @@
     "@types/jsonwebtoken": "^8.5.9",
     "nodemon": "^2.0.20",
     "typescript": "^4.8.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truizdiaz/back-jwt-angular-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/truizdiaz/back-jwt-angular-node/issues"
+  },
+  "homepage": "https://github.com/truizdiaz/back-jwt-angular-node#readme",
+  "description": ""
 }
